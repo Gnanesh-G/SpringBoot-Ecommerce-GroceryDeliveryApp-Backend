@@ -67,7 +67,8 @@ public class CartService {
         return findUserCart(cartRequest.getUserId());
     }
 
-    public List<Cart> deleteGroceryFromCart(Long userId, Long groceryId) {
-        return findUserCart(userId);
+    public List<Cart> deleteGroceryFromCart(Long cartId, Long groceryId) {
+        cartRepository.deleteById(cartId);
+        return findUserCart(cartId);
     }
 }

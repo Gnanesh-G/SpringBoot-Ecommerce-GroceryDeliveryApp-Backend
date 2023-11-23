@@ -2,6 +2,7 @@ package com.restapi.service;
 
 import com.restapi.dto.AuthDto;
 import com.restapi.exception.common.ResourceNotFoundException;
+import com.restapi.response.UserDetailsResponse;
 import com.restapi.response.UserResponse;
 import com.restapi.exception.common.InvalidUserException;
 import com.restapi.model.AppUser;
@@ -49,8 +50,9 @@ public class UserService {
         return authDto.mapToAuthResponse(appUser);
     }
 
-    public List<AppUser> findAll() {
-        return userRepository.findAll();
+    public List<UserDetailsResponse> findAll() {
+
+        return authDto.mapToUserDetails(userRepository.findAll());
     }
 
     public AppUser findUserById(Long id) {

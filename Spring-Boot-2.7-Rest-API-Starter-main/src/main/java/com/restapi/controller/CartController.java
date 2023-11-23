@@ -38,11 +38,11 @@ public class CartController {
         return new ResponseEntity<>(apiResponse, HttpStatus.OK);
     }
 
-    @DeleteMapping("/{userId}/{groceryCart}")
-    public ResponseEntity<APIResponse> deleteGroceryFromCart(@PathVariable Long userId,
-                                                          @PathVariable Long groceryCart) {
+        @DeleteMapping("/{cartId}/{groceryId}")
+    public ResponseEntity<APIResponse> deleteGroceryFromCart(@PathVariable Long cartId,
+                                                          @PathVariable Long groceryId) {
         apiResponse.setStatus(HttpStatus.OK.value());
-        apiResponse.setData(cartService.deleteGroceryFromCart(userId, groceryCart));
+        apiResponse.setData(cartService.deleteGroceryFromCart(cartId, groceryId));
         return new ResponseEntity<>(apiResponse, HttpStatus.OK);
     }
 

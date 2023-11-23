@@ -19,6 +19,7 @@ import java.util.List;
 @Setter
 @NoArgsConstructor
 @Table(name = "users") // don't use User
+@ToString
 public class AppUser {
 
     @Id
@@ -56,6 +57,7 @@ public class AppUser {
     @OneToMany(mappedBy = "appUser")
     private List<Address> addressList;
 
+    @JsonIgnore
     @CreationTimestamp
     @Column(updatable = false)
     private LocalDateTime createdAt;
