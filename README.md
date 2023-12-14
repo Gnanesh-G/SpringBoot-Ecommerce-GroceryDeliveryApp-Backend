@@ -18,8 +18,11 @@ Credentials:
 Technologies used:
 ------------------
 Backend (Java Spring Boot & MySQL):
+
 Java Spring Boot:
+
 Description:
+
 The backend is powered by Java Spring Boot, a powerful and flexible framework for building Java-based enterprise applications. Spring Boot's convention-over-configuration approach simplifies development and promotes best practices.
 
 Key Features:
