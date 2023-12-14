@@ -44,8 +44,6 @@ Title:Grocery Delivery App
 
 
 **Repository Link**
-
-    🔗 Repo links:
         Angular Link   : https://github.com/Gnanesh-G/Grocery_Delivery_App
         SpringBoot Link: https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend
 
