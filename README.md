@@ -8,7 +8,8 @@ Description
     ➡️ This app provides real-time updates on product availability and stock levels. 
 
 
-**Credentials**
+Credentials:
+
 
     👉 Role 
         📧Email = "Gnanesh" | 🔐Password = "gnanesh"
