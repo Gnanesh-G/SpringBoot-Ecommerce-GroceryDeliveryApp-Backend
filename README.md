@@ -1,6 +1,7 @@
 Title:Grocery Delivery App
 
-**Description**
+Description
+------------
 
     ➡️ This Grocery Delivery App is a full-stack project developed in Java using Spring Boot framework. 
     ➡️ This app features both user and admin sides, facilitating a seamless shopping experience for users and efficient management for admins.
