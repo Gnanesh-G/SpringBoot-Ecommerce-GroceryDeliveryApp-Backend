@@ -13,10 +13,46 @@ Description
 Credentials:
 ------------
      👉 Role 
-        📧Email = "Gnanesh" | 🔐Password = "gnanesh"
+        📧Username = "Gnanesh" | 🔐Password = "gnanesh"
+        
+Technologies used:
+------------------
+Backend (Java Spring Boot & MySQL):
+Java Spring Boot:
+Description:
+The backend is powered by Java Spring Boot, a powerful and flexible framework for building Java-based enterprise applications. Spring Boot's convention-over-configuration approach simplifies development and promotes best practices.
 
+Key Features:
+RESTful API design for smooth communication between the frontend and backend. Spring Data JPA for easy and efficient data access with MySQL. Spring Security for secure authentication and authorization.
 
-**Technologies used**
+MySQL Database:
+Description:
+The application relies on MySQL, a popular relational database management system. MySQL is used to store and manage cruise-related data, user information, and booking details.
+
+Key Features:
+Structured schema design to efficiently organize cruise-related information. ACID-compliant transactions for data integrity and reliability.
+
+Frontend (Angular, HTML, CSS, Bootstrap, TypeScript):
+Angular:
+Description:
+The frontend is developed using Angular, a powerful and dynamic JavaScript framework. Angular provides a modular and structured approach to building robust single-page applications.
+
+Key Features:
+Component-based architecture for modular and reusable UI elements. Two-way data binding for seamless communication between the frontend and backend.
+
+HTML, CSS, and Bootstrap:
+Description:
+HTML and CSS are used for structuring and styling the application's user interface. Bootstrap, a popular CSS framework, ensures a responsive and visually appealing design.
+
+Key Features:
+Responsive design for optimal user experience on various devices. Consistent and visually appealing UI components.
+
+TypeScript:
+Description:
+TypeScript is employed to bring static typing to JavaScript, enhancing code quality and developer productivity. It adds an extra layer of reliability and maintainability to the frontend codebase.
+
+Key Features:
+Strongly-typed language for catching errors during development. Improved code navigation and refactoring capabilities.
 
     👉 '💻-Spring Boot Java' for Back end
     👉 '💻-Angular' for Front end 
