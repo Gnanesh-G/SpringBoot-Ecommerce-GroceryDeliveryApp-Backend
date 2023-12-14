@@ -54,4 +54,4 @@ SpringBoot Link: https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDelive
 
 ![Sql Schema](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/9b15b750-5f22-4aa2-9324-69e6599e5586)
 
-Demo Video Url:https://drive.google.com/file/d/14AhamcpUi5oTXfq7B2-QGt-2HrXH6kqu/view?usp=sharing
+Demo Video Url: https://drive.google.com/file/d/14AhamcpUi5oTXfq7B2-QGt-2HrXH6kqu/view?usp=sharing
