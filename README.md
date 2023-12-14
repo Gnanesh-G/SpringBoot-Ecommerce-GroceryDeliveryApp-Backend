@@ -43,8 +43,9 @@ Title:Grocery Delivery App
     🚩 Error 5
 
 
-Repository Link
-        Angular Link   : https://github.com/Gnanesh-G/Grocery_Delivery_App 
+Repository Link:
+               
+Angular Link   : https://github.com/Gnanesh-G/Grocery_Delivery_App 
         
 SpringBoot Link: https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend
 
