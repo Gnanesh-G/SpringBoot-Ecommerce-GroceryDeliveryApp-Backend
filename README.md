@@ -13,7 +13,10 @@ Description
 Credentials:
 ------------
      👉 Role 
+         User:
         📧Username = "Gnanesh" | 🔐Password = "gnanesh"
+        Admin:
+        📧Username = "Admin" | 🔐Password = "admin"
         
 Technologies used:
 ------------------
@@ -51,6 +54,7 @@ Frontend (Angular, HTML, CSS, Bootstrap, TypeScript):
        TypeScript is employed to bring static typing to JavaScript, enhancing code quality and developer productivity. It adds an extra layer of reliability and maintainability to the frontend codebase.
 
 Screenshots:
+------------
 
     🔗 Links
 
@@ -58,22 +62,20 @@ Screenshots:
 Challenges:
 -----------
 
-    🔴 Integration and Compatibility Issues: Integrating different components, frameworks, or libraries could lead to compatibility issues or version conflicts, causing errors during deployment or runtime.
-    🔴 Point two
+    🔴 Integration and Compatibility Issues: Integrating different components, frameworks, or libraries could lead to compatibility issues or version conflicts, causing 
+        errors during deployment or runtime.
+    🔴 
     🔴 Point three
     🔴 Point four
     🔴 Point five
 
 
-Hardest Errors
+Hardest Errors:
 --------------
 
-    🚩 Internal Server Error
-    🚩 Error 2
-    🚩 Error 3
-    🚩 Error 4
-    🚩 Error 5
-
+    🚩 400 - Bad Request: Occurred during user input validation; resolved by refining client and server-side validation.
+    🚩 405 - Method Not Allowed: Found in API endpoints; resolved by aligning correct HTTP methods with endpoint requirements.
+    🚩 501 - Not Implemented: Occurred in unimplemented functionalities; resolved by prioritizing and implementing missing features.
 
 Repository Link:
 ----------------
@@ -83,7 +85,7 @@ Angular Link   : https://github.com/Gnanesh-G/Grocery_Delivery_App
 SpringBoot Link: https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend
 
 
-MySQL Schema
+MySQL Schema:
 ------------
 
 ![Sql Schema](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/9b15b750-5f22-4aa2-9324-69e6599e5586)
