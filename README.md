@@ -26,6 +26,7 @@ Backend (Java Spring Boot & MySQL):
      Description:
         The backend is powered by Java Spring Boot, a powerful and flexible framework for building Java-based enterprise applications. Spring Boot's convention-over- 
         configuration approach simplifies development and promotes best practices.
+        
     MySQL Database:
      Description:
         The application relies on MySQL, a popular relational database management system. MySQL is used to store and manage cruise-related data, user information, and booking details.
@@ -35,9 +36,11 @@ Frontend (Angular, HTML, CSS, Bootstrap, TypeScript):
     Angular:
       Description:
         The frontend is developed using Angular, a powerful and dynamic JavaScript framework. Angular provides a modular and structured approach to building robust single-page applications.
+        
     HTML, CSS, and Bootstrap:
      Description:
        HTML and CSS are used for structuring and styling the application's user interface. Bootstrap, a popular CSS framework, ensures a responsive and visually appealing design.
+       
     TypeScript:
      Description:
        TypeScript is employed to bring static typing to JavaScript, enhancing code quality and developer productivity. It adds an extra layer of reliability and maintainability to the frontend codebase.
@@ -55,9 +58,8 @@ Challenges:
         errors during deployment or runtime.
     🔴 Frontend-Backend Integration: Challenges in integrating frontend and backend functionalities; resolved by defining and adhering to a clear API contract between 
         frontend and backend teams.
-    🔴 Point three
-    🔴 Point four
-    🔴 Point five
+    🔴 CORS (Cross-Origin Resource Sharing) Issues: CORS-related problems during frontend-backend communication; resolved by configuring proper CORS settings in the backend.
+    
 
 
 Hardest Errors:
