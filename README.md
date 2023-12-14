@@ -47,12 +47,29 @@ Frontend (Angular, HTML, CSS, Bootstrap, TypeScript):
 
 Screenshots:
 ------------
+Login Page:
+![Login](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/8b47cffe-2c07-4de6-9260-188e29dac131)
 
+Register Page:
+![Register](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/88a5e8d9-6736-4980-bada-8ad43e8e84e2)
+
+Home Page
 ![home2](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/ea3d3e43-d6d5-4082-925b-dfc1e3a61dc9)
 
-dddddddd
-    
+Order Page
+![order](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/580c2710-c15a-48c8-8306-743f70b95e02)
 
+Admin Page:
+![Admin Dashboard](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/bee4dd98-dee3-4e85-9c7c-b9732e58bf4f)
+
+Admin's Category Page:
+![Category](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/2bdc4988-188f-4cee-8c21-8ea921beea4d)
+
+Admin's Grocery Page:
+![Grocery_Admin](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/85d459df-4a14-42e6-bae3-a612926ab12a)
+
+User Profile Page
+![User](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/47bb7e90-97ec-4c1c-aef0-08c73d35afaa)
 
 
 Challenges:
@@ -64,8 +81,6 @@ Challenges:
         frontend and backend teams.
     🔴 CORS (Cross-Origin Resource Sharing) Issues: CORS-related problems during frontend-backend communication; resolved by configuring proper CORS settings in the backend.
     
-
-
 Hardest Errors:
 --------------
 
