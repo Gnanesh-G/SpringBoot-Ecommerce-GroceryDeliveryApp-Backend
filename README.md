@@ -52,8 +52,6 @@ Title:Grocery Delivery App
 
 **MySQL Schema**
 
-    👉 ![Sql Schema](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/1a477441-6659-4cbf-9268-be1b198753e1)
-
-
+![Sql Schema](https://github.com/Gnanesh-G/SpringBoot-Ecommerce-GroceryDeliveryApp-Backend/assets/145537622/9b15b750-5f22-4aa2-9324-69e6599e5586)
 
 Demo Video Url:https://drive.google.com/file/d/14AhamcpUi5oTXfq7B2-QGt-2HrXH6kqu/view?usp=sharing
