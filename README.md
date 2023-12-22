@@ -5,7 +5,7 @@ Description
 ------------
 
     ➡️ This Grocery Delivery App is a full-stack project developed in Java using the Spring Boot framework for the backend
-    and Angular with HTML, CSS, and JavaScript for the frontend. 
+    and Angular with HTML, CSS, and TypeScript for the frontend. 
     ➡️ This app features both user and admin sides, facilitating a seamless shopping experience for users and efficient management for admins.
     ➡️ This app provides real-time updates on product availability and stock levels. 
 
